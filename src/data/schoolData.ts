@@ -413,4 +413,3 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     description: 'Diskusi interaktif dan pengujian kelayakan media pembelajaran antar guru peserta IHT sebelum implementasi di ruang kelas.',
   },
 ];
-
