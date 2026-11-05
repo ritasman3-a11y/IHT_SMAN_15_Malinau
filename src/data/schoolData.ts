@@ -54,7 +54,7 @@ export const SCHOOL_INFO = {
   skPendirian: 'SK. 421.3/Disdikbud/KU/2021',
   kabupaten: 'Kabupaten Malinau',
   provinsi: 'Kalimantan Utara',
-  alamatLengkap: 'Jl. Trans Kalimantan No. 15, Kec. Malinau Kota, Kab. Malinau, Provinsi Kalimantan Utara 77554',
+  alamatLengkap: 'Desa Punan Setarap, Kec. Malinau Selatan Hilir, Kab. Malinau, Provinsi Kalimantan Utara 77554',
   telepon: '(0553) 202615',
   whatsapp: '+62 821-5400-1515',
   email: 'info@sman15malinau.sch.id',
@@ -71,8 +71,8 @@ export const SCHOOL_INFO = {
 
 
   principal: {
-    name: 'Drs. H. Achmad Supriyadi, M.Pd.',
-    nip: '19720815 199802 1 004',
+    name: 'Yan Ahat, S.Th., M.Pd.K.',
+    nip: '196901042006041002',
     title: 'Kepala SMAN 15 Malinau',
     photoUrl: '/src/assets/images/kepala_sekolah_portrait_1793880318017.jpg',
     welcomeTitle: 'Sambutan Kepala Sekolah',
